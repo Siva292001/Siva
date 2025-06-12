@@ -1,0 +1,12 @@
+   .top-right-image {
+      position:absolute;
+      top: 90px;
+      right: 5px;
+      width: 100px; 
+    }
+    .bottom-right-image{
+      left: 75%;
+      bottom:0px ;
+      width: 30%;
+      position: relative;
+    }
